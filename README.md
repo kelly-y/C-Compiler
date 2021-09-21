@@ -18,8 +18,8 @@ During execution, the content of `.c` files would be parsed and converted to LLV
 5. `makefile`
 
 ### Directions
-`$make`: Compile program <br>
-`$make exe1`: Execute program and generate LLVM code of `sample1.c` <br>
-`$make exe2`: Execute program and generate LLVM code of `sample2.c` <br>
-`$make exe3`: Execute program and generate LLVM code of `sample3.c` <br>
-`$make clean`: Clean files <br>
+* `$make`: Compile program <br>
+* `$make exe1`: Execute program and generate LLVM code of `sample1.c` <br>
+* `$make exe2`: Execute program and generate LLVM code of `sample2.c` <br>
+* `$make exe3`: Execute program and generate LLVM code of `sample3.c` <br>
+* `$make clean`: Clean files <br>
